@@ -1,0 +1,47 @@
+---------------------------
+ Opis sklepu internetowego
+---------------------------
+
+Sklep internetowy autorstwa 'mickpr' (Micha³ Przyby³) jest ¶wietnym rozwi±zaniem
+dla ma³ych i ¶rednich firm, pragn±cych zaistnieæ na rynku handlu elektronicznego.
+Pozwala on promowaæ i sprzedawaæ produkty ró¿nego rodzaju poprzez internet, 
+a jego niewygórowane wymagania i zdalna administracja pozwalaj± na umieszczenie
+go na wykupionym serwerze, bez konieczno¶ci stawiania w³asnego serwera WWW
+oraz spe³niania wszystkich aspektów z tym zwi±zanych.
+
+Sklep ten jest wysoce konfigurowalny, a zarazem prosty w obs³udze.
+Do jego podstawowych zalet zaliczyæ mo¿na miêdzy innymi:
+- nieograniczon± ilo¶æ kategorii,
+- nieograniczon± ilo¶æ produktów,
+- opisy produktów ze zdjêciami i automatycznie tworzonymi miniaturkami, 
+- kontrola ilo¶ci produktów i ewentualnie ukrywanie produktów z ilo¶ci± <=0,
+- profesjonalny panel administracyjny umo¿liwiaj±cy zdaln± administracjê 
+  produktami oraz zamówieniami,
+
+
+-------- INSTALACJA ---------
+- przegraæ dane na serwer
+
+- zrobiæ linki symboliczne z katalogu /img do /admin/img i to samo z /images,
+
+-------- KONFIGURACJA ---------
+- wymagania : PHP +Serwer WWW + MySQL,
+- sklep dzia³a przy konfiguracji PHP "register_globals" OFF i ON (bez znaczenia)
+- miniaturki s± tworzone, je¶li jest zdjêcie produktu, a nie podano nazwy pliku 
+  miniaturki (musi tam byæ pusty ci±g - nie moze byæ nawet spacji)
+- opcjonalnie konfiguracja (config.inc) zezwala na:
+	- pokazywanie ceny netto 
+	- pokazywanie belki z ilo¶ci± produktów
+	- pokazywanie cennika (pdf)
+	- wybór tematu/motywu (main.css/main2/3/4 .css)
+- Podczas przesy³ania pliku na serwer (obrazka) w czasie edycji/dodawania 
+  nowego produktu nale¿y "rêcznie" uzupe³niæ nazwê pliku w polach tekstowych
+  uzupe³nienie samego pola zdjecie - oznacza, ¿e bêdzie automatycznie tworzona 
+  miniaturka produktu. Wype³nienie pola miniatura oznacza, ¿e miniaturk± 
+  bêdzie oddzielny obraz. Pozostawienie pustego pola zdjecie oznacza, ¿e nie
+  bêdzie mo¿liwo¶ci podgl±du zdjêcia (powiêkszenia) podczas ogl±dania sklepu.
+- sklep umo¿liwia wystawianie ujemnych ilo¶ci produktu (korekty zamówieñ), 
+  jednak z³o¿onymi zamówieniami mo¿e zarz±dzaæ wy³±cznie w³a¶ciciel 
+  (zamówienia automatycznie siê "nie kasuj±"),
+- nadkategorie bez podkategorii nie s± pokazywane w sklepie,
+

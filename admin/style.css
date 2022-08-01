@@ -1,0 +1,297 @@
+.upload_ctrl {
+	BORDER-RIGHT: #c0c0c0 1px solid; 
+	BORDER-TOP: #c0c0c0 1px solid; 
+	BORDER-LEFT: #c0c0c0 1px solid; 
+	BORDER-BOTTOM: #c0c0c0 1px solid; 
+	FONT-SIZE: 8pt; 
+	FONT-FAMILY: Tahoma
+}
+
+.promocje {
+	BORDER-RIGHT: #e7e7e7 1px solid; 
+	BORDER-TOP: #e7e7e7 1px solid; 
+	FONT: 12px arial; 
+	BORDER-LEFT: #e7e7e7 1px solid; 
+	BORDER-BOTTOM: #e7e7e7 1px solid; 
+}
+
+BODY {
+	MARGIN: 0px
+}
+BODY.popup {
+	MARGIN: 8px; BACKGROUND-COLOR: #f5f5f5
+}
+BODY.popup_image {
+	MARGIN: 0px; BACKGROUND-COLOR: #ffffff
+}
+BODY.popup_mail {
+	MARGIN: 0px; BACKGROUND-COLOR: #f4f4f4
+}
+BODY.popup_show_mail {
+	MARGIN: 0px; BACKGROUND-COLOR: #ffffff
+}
+BODY.popup_test_mail {
+	MARGIN: 0px; BACKGROUND-COLOR: #efefef
+}
+BODY.popup_help {
+	MARGIN: 0px; BACKGROUND-COLOR: #f5f5f5
+}
+TR.head {
+	BACKGROUND-COLOR: #0065a8
+}
+.head_shop_name {
+	FONT-SIZE: 28px; COLOR: #e8f3ff; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.head_admin_panel {
+	FONT-SIZE: 24px; COLOR: #e8f3ff; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+.txt {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.txt_menu {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: tahoma; TEXT-DECORATION: none
+}
+.lista {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: verdana
+}
+.scroller {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: verdana
+}
+.opis {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: verdana
+}
+HR.naglowek {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.star {
+	COLOR: red
+}
+.error {
+	FONT-WEIGHT: bold; COLOR: red
+}
+.title_test_mail {
+	FONT-WEIGHT: bold; COLOR: #004f84
+}
+.newsletter_sent {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #004f84; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TABLE.szukaj {
+	BACKGROUND-COLOR: #e0e0e0
+}
+TABLE.popup_frame {
+	BACKGROUND-COLOR: #cccccc
+}
+TABLE.popup_content {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+TABLE.popup_border {
+	BACKGROUND-COLOR: #ffffff
+}
+TR.popup_content {
+	BACKGROUND-COLOR: #eeeeee
+}
+TR.popup_firm_name {
+	COLOR: #00406a
+}
+TABLE.border {
+	BACKGROUND-COLOR: #ffffff
+}
+TR.content {
+	BACKGROUND-COLOR: #ffffff
+}
+TR.title {
+	BACKGROUND-COLOR: #dff2ff
+}
+TR.head_list {
+	BACKGROUND-COLOR: #cdd2e4
+}
+TR.displayed_list {
+	BACKGROUND-COLOR: #efedef
+}
+TR.fault_list {
+	BACKGROUND-COLOR: #f7f7f7
+}
+TR.add_list {
+	BACKGROUND-COLOR: #f7f7f7
+}
+TR.head_form {
+	BACKGROUND-COLOR: #cccccc
+}
+TR.form {
+	BACKGROUND-COLOR: #f7f7f7
+}
+TABLE.form_border {
+	BACKGROUND-COLOR: #0065a8
+}
+TR.form_head {
+	BACKGROUND-COLOR: #bfe6ff
+}
+TR.form_content {
+	BACKGROUND-COLOR: #ffffff
+}
+TR.stat_often {
+	BACKGROUND-COLOR: #e0e0e0
+}
+TR.stat_head {
+	COLOR: blue; BACKGROUND-COLOR: #eeeeee
+}
+TR.stat_content {
+	BACKGROUND-COLOR: #f8f8f8
+}
+TR.title_newsletter {
+	COLOR: #ffffff; BACKGROUND-COLOR: #0065a8
+}
+TABLE.config_border {
+	BACKGROUND-COLOR: #a0cff0
+}
+TR.config_head {
+	BACKGROUND-COLOR: #68b1e8
+}
+TR.config_content {
+	BACKGROUND-COLOR: #8ac4ee
+}
+TR.config_fault {
+	BACKGROUND-COLOR: #8ac4ee
+}
+TD.config_actions {
+	TEXT-ALIGN: center
+}
+TABLE.import_form_csv {
+	BACKGROUND-COLOR: #adafad
+}
+TR.import_form_csv_head {
+	BACKGROUND-COLOR: #e7e7e7
+}
+TR.import_form_csv_content {
+	BACKGROUND-COLOR: #ffffff
+}
+TABLE.import_duplicate_id {
+	BACKGROUND-COLOR: #cccccc
+}
+TR.import_duplicate_id {
+	BACKGROUND-COLOR: #ffffff
+}
+A.tytul {
+	FONT-SIZE: 12px; COLOR: blue; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.powrot_do_listy {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.naglowek {
+	FONT-SIZE: 12px; COLOR: blue; FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+A.lista {
+	FONT-SIZE: 11px; COLOR: #0000cc; FONT-FAMILY: verdana
+}
+A.lista:visited {
+	FONT-SIZE: 11px; COLOR: #0000cc; FONT-FAMILY: verdana
+}
+A.scroller {
+	FONT-SIZE: 11px; COLOR: #0000cc; FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+A.txt_menu {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: tahoma; TEXT-DECORATION: none
+}
+A.txt_menu:hover {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: tahoma; TEXT-DECORATION: underline
+}
+A.edytuj {
+	FONT-SIZE: 13px; COLOR: #0000cc; FONT-FAMILY: verdana
+}
+A.usun {
+	FONT-SIZE: 13px; COLOR: #0000cc; FONT-FAMILY: verdana
+}
+A.kat_path {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.kat_path:hover {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+INPUT.popup {
+	BORDER-RIGHT: #7f9db9 1px solid; BORDER-TOP: #7f9db9 1px solid; BACKGROUND: #ffffff; FONT: 10px Verdana, Tahoma, Arial; BORDER-LEFT: #7f9db9 1px solid; COLOR: #000000; BORDER-BOTTOM: #7f9db9 1px solid; HEIGHT: 18px
+}
+SELECT.popup {
+	BORDER-RIGHT: #7f9db9 1px solid; BORDER-TOP: #7f9db9 1px solid; BACKGROUND: #ffffff; FONT: 10px Verdana, Tahoma, Arial; BORDER-LEFT: #7f9db9 1px solid; COLOR: #000000; BORDER-BOTTOM: #7f9db9 1px solid; HEIGHT: 18px
+}
+.button_popup {
+	BORDER-RIGHT: #004f84 1px solid; BORDER-TOP: #004f84 1px solid; BACKGROUND: #ffffff; FONT: bold 10px Verdana, Tahoma, Arial; BORDER-LEFT: #004f84 1px solid; COLOR: #000000; BORDER-BOTTOM: #004f84 1px solid; HEIGHT: 18px
+}
+.szukaj {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+INPUT.button_szukaj {
+	BORDER-RIGHT: #004f84 1px solid; BORDER-TOP: #004f84 1px solid; BACKGROUND: #ffffff; FONT: bold 10px Verdana, Tahoma, Arial; BORDER-LEFT: #004f84 1px solid; COLOR: #000000; BORDER-BOTTOM: #004f84 1px solid; HEIGHT: 18px
+}
+INPUT.checkbox_szukaj {
+	FONT: bold 10px Verdana, Tahoma, Arial; COLOR: #000000
+}
+INPUT.szukaj {
+	BORDER-RIGHT: #7f9db9 1px solid; 
+	BORDER-TOP: #7f9db9 1px solid; 
+	BACKGROUND: #ffffff; 
+	FONT: 12px Verdana, Tahoma, Arial; 
+	BORDER-LEFT: #7f9db9 1px solid; 
+	COLOR: #000000; 
+	BORDER-BOTTOM: #7f9db9 1px solid; 
+	HEIGHT: 16px
+}
+SELECT.szukaj {
+	BORDER-RIGHT: #7f9db9 1px solid; BORDER-TOP: #7f9db9 1px solid; BACKGROUND: #ffffff; FONT: 10px Verdana, Tahoma, Arial; BORDER-LEFT: #7f9db9 1px solid; COLOR: #000000; BORDER-BOTTOM: #7f9db9 1px solid; HEIGHT: 18px
+}
+INPUT.form {
+	BORDER-RIGHT: #7f9db9 1px solid; BORDER-TOP: #7f9db9 1px solid; BACKGROUND: #ffffff; FONT: 10px Verdana, Tahoma, Arial; BORDER-LEFT: #7f9db9 1px solid; COLOR: #000000; BORDER-BOTTOM: #7f9db9 1px solid; HEIGHT: 16px
+}
+INPUT.checkbox_form {
+	FONT: 10px Verdana, Tahoma, Arial; COLOR: #000000
+}
+INPUT.form_file {
+	BACKGROUND: #ffffff; FONT: 10px Verdana, Tahoma, Arial; COLOR: #000000; HEIGHT: 18px
+}
+SELECT.form {
+	BORDER-RIGHT: #7f9db9 1px solid; BORDER-TOP: #7f9db9 1px solid; BACKGROUND: #ffffff; FONT: 10px Verdana, Tahoma, Arial; BORDER-LEFT: #7f9db9 1px solid; COLOR: #000000; BORDER-BOTTOM: #7f9db9 1px solid; HEIGHT: 18px
+}
+TEXTAREA.form {
+	BORDER-RIGHT: #7f9db9 1px solid; BORDER-TOP: #7f9db9 1px solid; BACKGROUND: #ffffff; FONT: 10px Verdana, Tahoma, Arial; BORDER-LEFT: #7f9db9 1px solid; COLOR: #000000; BORDER-BOTTOM: #7f9db9 1px solid
+}
+INPUT.button_form {
+	BORDER-RIGHT: #004f84 1px solid; BORDER-TOP: #004f84 1px solid; BACKGROUND: #ffffff; FONT: bold 12px Verdana, Tahoma, Arial; BORDER-LEFT: #004f84 1px solid; COLOR: #000000; BORDER-BOTTOM: #004f84 1px solid; HEIGHT: 20px
+}
+INPUT.button_newsletter {
+	BORDER-RIGHT: #004f84 1px solid; BORDER-TOP: #004f84 1px solid; BACKGROUND: #ffffff; FONT: bold 9px Verdana, Tahoma, Arial; BORDER-LEFT: #004f84 1px solid; COLOR: #000000; BORDER-BOTTOM: #004f84 1px solid; HEIGHT: 18px
+}
+INPUT.form_newsletter {
+	BORDER-RIGHT: #7f9db9 1px solid; BORDER-TOP: #7f9db9 1px solid; BACKGROUND: #ffffff; FONT: 10px Verdana, Tahoma, Arial; BORDER-LEFT: #7f9db9 1px solid; COLOR: #000000; BORDER-BOTTOM: #7f9db9 1px solid; HEIGHT: 18px
+}
+.txt .help_head {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; HEIGHT: 20px; BACKGROUND-COLOR: #004d84
+}
+.txt .help_menu {
+	FONT-SIZE: 11px; COLOR: #ffffff; HEIGHT: 12px; BACKGROUND-COLOR: #004d84
+}
+.txt A.help_menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; BACKGROUND-COLOR: #004d84; TEXT-DECORATION: none
+}
+A.help_menu:hover {
+	TEXT-DECORATION: underline
+}
+A.help {
+	COLOR: blue
+}
+.txt A.help_list {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #004d84; TEXT-DECORATION: underline
+}
+.txt .help_title {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px
+}
+.help_hr {
+	FONT-SIZE: 1px; HEIGHT: 1px; BACKGROUND-COLOR: #0065ad
+}
+OL.help {
+	MARGIN-TOP: 8px; PADDING-LEFT: 24px; MARGIN-LEFT: 0px; PADDING-TOP: 0px
+}
+LI.help {
+	PADDING-BOTTOM: 0px
+}
+DIV.help_up {
+	PADDING-BOTTOM: 8px; TEXT-ALIGN: right
+}

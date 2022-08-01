@@ -1,0 +1,51 @@
+-----------------------------------------------------------------------------
+ TODO
+-----------------------------------------------------------------------------
+- Raporty - jeszcze z jeden
+- przy zamawianiu - popraw wygl±d okienek,
+- uwzglêdnianie b±d¼ nieuwzglêdnianie ujemnych pozycji zamówienia,
+- u¿ytkownicy i promocje dla nich logowanie i zak³adanie konta,
+- podzieliæ tematy na katalogi,
+- produkty podczas edycji - ¿eby nie pokazywa³o wszystkich (przy du¿ej
+  ilo¶ci bêdzie za wolno dzia³aæ),
+- przy filtrowaniu na main.php ¿eby mo¿na wybieraæ naraz wiêcej ni¿ 1 warunek,
+- mo¿liwo¶æ dodawania opisów do zamówieñ,
+- link do regulaminu i zasad dzia³ania sklepu (opis... np.html),
+- w nowo¶ciach ¿eby opcjonalnie pokazywa³o miniaturki,
+- tabelka producenci zawiera dane o producencie i www i rankingu 
+  ale poco je¶li nie jest wykorzystana,
+- po logowaniu u¿ytkowników ---> ogl±danie swoich zamówieñ 
+- konfiguracja przez WWW,
+- Kodowanie hase³ w MD5,
+
+-----------------------------------------------------------------------------
+
+PRZECINEK NA KROPKE!!!!!!!!!!!!!!!
+
+W panelu adminstacyjnym zmieñ logo (obrazek) i kolorystyke
+
+mo¿na, ale pó¼niej
+-----------------------------------------------------------------------------
+Poka¿ produkt podczas edycji - 	¿eby pokazywa³o w 
+				odrêbnym oknie podgl±d produktu
+- autoryzacja .htaceess albo co¶ w podobie :-) a.php
+
+-----
+DONE
+-----
+ 1.Symbole.
+ 2.Poprawiono promocje.
+ 3.Centrowanie podgl±du obrazka.
+ 4.Poprawiono kategorie (kolejno¶æ).
+ 5.Zrobiono miniaturki (dzia³aj±, je¶li nie ma podstawionej miniaturki 
+   - a tylko samo zdjêcie). - out_thumb.php.
+ 6.Zrobiono belkê wy¶wietlania ilo¶ci produktów w bazie (belka.php).
+ 7.Poprawiono dzia³anie przy register_globals=off.
+ 8.Losow± galeriê :-) (tylko produkty ze zdjêciami).
+ 9.przy przesy³aniu kolejnych rzeczy do koszyka, ¿eby dodawa³ do siebie 
+   produkty o tym samym ID (równie¿ ujemne).
+10.nadkategorie bez podkategorii nie s± pokazywane w sklepie
+11.napisz do nas :-)
+12.plik logo definiowany w zamówieniu, ustalona wysoko¶æ 
+   i szeroko¶æ loga musi byæ - reszta skalowana na A4,
+13.przy przesy³aniu zdjecia/miniatury... uaktualnieniaj± siê odpowiednie pola,

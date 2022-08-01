@@ -1,0 +1,10 @@
+SCROLLBAR-FACE-COLOR: #0099cc; SCROLLBAR-HIGHLIGHT-COLOR: #dedede; SCROLLBAR-SHADOW-COLOR: #7d7d7d; SCROLLBAR-ARROW-COLOR: #ffffff; SCROLLBAR-TRACK-COLOR: #f4f4f4; SCROLLBAR-BASE-COLOR: #666666; scrollbar-3d-light-color: #7D7D7D; scrollbar-dark-shadow-color: #7D7D7D
+	SCROLLBAR-FACE-COLOR: #ffdd00; 
+	SCROLLBAR-HIGHLIGHT-COLOR: #dedede; 
+	SCROLLBAR-SHADOW-COLOR: #fdfdfd; 
+	SCROLLBAR-ARROW-COLOR: #ffffff; 
+	SCROLLBAR-TRACK-COLOR: #ffeecc; 
+	SCROLLBAR-BASE-COLOR: #666666; 
+	scrollbar-3d-light-color: #fDfDfD; 
+	scrollbar-dark-shadow-color: #fDfDfD
+	
